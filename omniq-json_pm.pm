@@ -1,5 +1,5 @@
 package JSON_PAGE;
-# dec. 24 2016 jimt/zeus --------- headibg twd's awsightsail !!!
+# dec. 24 2016 jimt/zeus --------- headibg twd's aws Lightsail !!!
 # december 13, 2016 jim/zeus/wjs.
 # omniq-json_pm.pm
 
